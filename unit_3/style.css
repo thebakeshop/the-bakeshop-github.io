@@ -1,8 +1,11 @@
 body {
-	background-color: blue;
-	background-color: #6ED1FA;
 
+	background-color: #c1eff7;
 
+}
+
+img{display:block;
+margin: auto;
 }
 h1 {
 	color: brown;
