@@ -5,9 +5,15 @@ body {
 	background-color: #c1eff7;
 
 }
- head{ #FFED74
- }
-nav{ #E8C66A
+ header{ 
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav{  background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 }
  
 
@@ -37,8 +43,13 @@ p{
 
 
 }
-footer { #FF957E
+footer {background-color:  #FF957E;
+    border: 1px black solid;
+    padding: 20px;}
  }
- div { #FFE2B8
+ div {  background-color: #FFE2B8;
+
+
+    border: 1px black solid;
+    padding: 20px;
  }
- 
